@@ -1,0 +1,45 @@
+handle  - SIGN UP(as donor and needy)
+handle  - SING IN
+
+- HOME
+- CORE VALUES  || ways you can help
+	1.	Health -  
+	2.	Education - 
+	3.	Job Creation -
+	4.	Drug Abuse - 
+	5.  Legal Assistance -
+	NOTE: Under each page in this section contains a filtered list of people within that discribed page.(auto play video documentation, 
+Under each category, we have galleries and video testimonies
+
+- Donate:
+	With cash - BANK TF OR CARD (Card No, CVV, EXP, EMAIL, AMOUNT)
+	with resource 
+	
+- About us - The organization's profile and history and coverage location
+
+{- BECOME A PARTNER
+
+- Become a Volunteer} => Get involved
+
+- Testimonials		
+
+- Contact Us
+
+- FAQ
+- Terms or Use
+- Privacy and Policy
+- Our Volunteers - Pictures, Name, Location (With our branded shirts)
+- Events
+
+
+- Inner Pages
+a. Dashboard
+b. User Profile (General Profile)
+c. Donation
+d. KYC
+e. Get Support - Form. Desc, Pict, Video, Location, State, Lga, Address, Amount needed, Duration
+
+
+Admin Modules
+User Modules - Donor and Needy
+Organization 
