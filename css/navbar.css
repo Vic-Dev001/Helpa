@@ -1,0 +1,28 @@
+.nav-items{
+    background-image: linear-gradient(to right,#ed3237, #352472);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+}
+    
+
+
+@media all and (min-width: 992px) {
+	.navbar .nav-item .dropdown-menu{ display: none; }
+	.navbar .nav-item:hover .nav-link{   }
+	.navbar .nav-item:hover .dropdown-menu{ display: block; }
+	.navbar .nav-item .dropdown-menu{ margin-top:0; }
+    
+}
+
+@media (max-width: 1028px) {
+    .logo{width: 300px;}
+    
+}
+
+
+.dropdown-menu{
+    font-size: 1.8rem;
+    text-transform: uppercase;
+}
