@@ -1,0 +1,41 @@
+/* htmls elements*/
+body{
+     font-family: 'Quicksand','roboto', sans-serif;
+}
+h1{
+    font-family:  'Roboto', sans-serif;
+}
+
+/* header */
+.containerfluid{
+    padding: 10px 8  0px;
+}
+/* navbar */
+.vavbar{
+    background-color: #ECECEC;
+}
+.nav-link{
+    font-size: 1em;
+}
+/* about */
+.about{
+    padding: 5% 10%;
+
+}
+/* mission section */
+.mission{
+    background-image: src("assests/images/hands.jpg");
+    background-color:#352472 ;
+    color: white;
+
+
+}
+.missionh1{
+    text-align: center;
+    font-weight: bold;
+}
+@media (max-width:1028px){
+    .logo{
+        width: 300px;
+    }
+}
